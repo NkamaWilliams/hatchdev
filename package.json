@@ -1,0 +1,17 @@
+{
+  "name": "hatchdev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx ts-node"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^4.9.5"
+  }
+}
